@@ -1,0 +1,23 @@
+Training without momentum:
+For eta = 0.05, epoch is 35609, training time is 42.19 seconds
+For eta = 0.10, epoch is 41519, training time is 49.15 seconds
+For eta = 0.15, epoch is 2176514, training time is 2565.92 seconds
+For eta = 0.20, epoch is 82705, training time is 97.33 seconds
+For eta = 0.25, epoch is 310055, training time is 366.69 seconds
+For eta = 0.30, epoch is 65818, training time is 77.58 seconds
+For eta = 0.35, epoch is 43831, training time is 51.59 seconds
+For eta = 0.40, epoch is 94487, training time is 111.26 seconds
+For eta = 0.45, epoch is 57052, training time is 67.36 seconds
+For eta = 0.50, epoch is 37137, training time is 43.89 seconds
+
+
+Training with alpha = 0.9:
+For eta = 0.05, epoch is 2751230, training time is 3238.03 seconds
+For eta = 0.10, epoch is 2304365, training time is 2705.94 seconds
+For eta = 0.15, epoch is 1367020, training time is 1607.08 seconds
+For eta = 0.20, epoch is 1035565, training time is 1219.41 seconds
+For eta = 0.25, epoch is 865729, training time is 1017.00 seconds
+For eta = 0.30, epoch is 765722, training time is 900.29 seconds
+For eta = 0.35, epoch is 702914, training time is 827.65 seconds
+For eta = 0.40, epoch is 662415, training time is 778.98 seconds
+For eta = 0.45, epoch is 637720, training time is 750.31 seconds
